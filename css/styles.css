@@ -1,0 +1,28 @@
+header {
+    text-align: center;
+    font-size: 30px;
+}
+
+body {
+    background-color: tan;
+    color: black;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: blue;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 500px;
+}
